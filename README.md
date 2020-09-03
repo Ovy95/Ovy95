@@ -4,7 +4,7 @@ Crafting Stone to Crafting Code, from Stonemason to Developer. Attended Makers A
 
 
 - 🔭 I’m currently working on ... Currently planning out a idea to create a game using Golang.
-- 🌱 I’m currently learning ... Golang learning, check out my [Exercism](https://github.com/Ovy95/Ovy95-Exercism_Go_Path) project, where I complete little tasks.
+- 🌱 I’m currently learning ... Golang, check out my [Exercism](https://github.com/Ovy95/Ovy95-Exercism_Go_Path) Repository, where I complete little tasks.
 
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jack-overton-40b7931a2/) 
 
