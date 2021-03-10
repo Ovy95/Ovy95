@@ -1,10 +1,10 @@
 ### Hi there :bowtie:
 
-Crafting Stone to Crafting Code, from Stonemason to Developer. Attended Makers Academy this year and now developing my skills to land myself a job in tech
+Crafting Stone to Crafting Code, from Stonemason to Developer. I Attended Makers Academy and now I'm now developing my skills to land myself a job in tech
 
 
-- 🔭 I’m currently working on ... planning out a idea to create a game using Golang.
-- 🌱 I’m currently learning ... Golang, check out my [Exercism](https://github.com/Ovy95/Ovy95-Exercism_Go_Path) Repository, where I complete little tasks.
+- 🔭 I’m currently working on ... the Acknowledge group project.
+- 🌱 I’m currently ... working on growing a better TDD process using Jasmine and Javascript solving little projects, attending reviews through Makers and solving katas.
 
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jack-overton-40b7931a2/) 
 
