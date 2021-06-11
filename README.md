@@ -11,10 +11,16 @@ Crafting Stone to Crafting Code, from Stonemason to Developer. I Attended Makers
 - When I'm not coding: ... :weight_lifting: Most probably in the gym or something sport-related.
 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ovy95&count_private=true&show_icons=true&include_all_commits=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ovy95&show_icons=true)
 
 See the Pinned tabs for Projects and Github CV Below. 
+
+
+
+
+
+
 
 
 
